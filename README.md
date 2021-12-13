@@ -10,4 +10,3 @@ During my time at university and since graduating, I have worked with a gamut of
 
 
 - 🔭 I’m currently working on improving my skills in JavaScript, VueJS and jQuery.
-- 🌱 I’m currently learning React JS.

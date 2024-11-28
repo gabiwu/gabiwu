@@ -2,5 +2,5 @@
 
 
 
-BSc (Hons) Computer Science Graduate. Currently studying MSc Data Science. 
-Pursuing a career in Software Engineering/Data Analytics.
+BSc (Hons) Computer Science Graduate and MSc Data Science Graduate
+Pursuing a career in Data Engineering.

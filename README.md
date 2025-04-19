@@ -2,5 +2,4 @@
 
 
 
-BSc (Hons) Computer Science Graduate and MSc Data Science Graduate
-pursuing a career in Data Engineering.
+Data Engineer
